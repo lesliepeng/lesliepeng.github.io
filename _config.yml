@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Fraser Xu'
+tagline:          'Thoughts on life and code.'
+description:      'Thoughts on life and code.'
+url:              https://fraserxu.me
+baseurl:          /
+gems: [jekyll-paginate]
+paginate: 3
+paginate_path: "page:num"
+
+author:
+  name:           'Fraserxu'
+  url:            https://fraserxu.me
+  email:          xvfeng123@gmail.com
+
+version:          1.0.0
