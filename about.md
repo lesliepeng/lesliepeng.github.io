@@ -3,35 +3,39 @@ layout: page
 title: About
 ---
 
-A self-taught JavaScript Developer, major in English Language and Culture, currently work and live in <del>Shanghai, China</del> Melbourne, Australia.
+爱写代码的产品经理。
+兴趣是画画。
+我用创造对抗虚无。
 
-* Blog: [fraserxu.me](https://fraserxu.me)
-* Date of Birth: 10-09-1991
-* Github: [@fraserxu](https://github.com/fraserxu)
-* Twitter: [@fraserxu](https://twitter.com/fraserxu)
+* Blog: [Leslie](https://lesliepeng.github.io)
+* Date of Birth: 12-07-1989
+* Github: [@lesliepeng](https://github.com/lesliepeng)
+* Dribbble: [@Leslie](https://dribbble.com/lesliepeng)
 
 ### My skills
-* **Front-end MVC frameworks**(yo-yo, React.js, Angular.js)
+## Development
+* **Front-end MVC frameworks**(React.js, Angular.js)
 * **Data visualization**(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
-* **Cross platform web development**(Electron, React-native, Ionic)
+* **Cross platform web development**(React-native, Ionic)
 * **Tools**(Browserify, Makefile, npm, webpack)
-* **Others**(WebRTC, XMPP, Nodejs)
-* Very limited experience with Python, Ruby, Go...
+* **Others**(Nodejs)
+* Very limited experience with Python...
+
+## Design
+* **Adobe Photoshop**
+* **Adobe Illustrator**
+* **Sketch**
+* **Principle**
+
 
 ### My working experience
 
-* **2012 - 2015** Front-end Developer at [Wiredcraft](http://wiredcraft.com/)
-* **2011 - 2012** Front-end intern at [Geekpark](http://geekpark.net/)
+* **2013 - 2015** Product Manager at start-up company
 
-### My open source contribution
-
-* Co-organiser of JSConf China - [ShenJS](http://2015.jsconf.cn/)
-* Co-Organiser of [Shanghai JavaScript Meetup](http://www.meetup.com/Shanghai-JavaScript-Meetup/) *the biggest monthly JS event in Shanghai*
-
-### My project
+### My projects
 
 #### - Open source
-* [data-canvas](http://fraserxu.me/data-canvas/) - An app to visualize the data from [data-canvas](http://datacanvas.org/sense-your-city/) project
+* [data-canvas](http://fraserxu.me/data-canvas/) - An app to visualize the data from
 * [gifme](https://github.com/fraserxu/gifme) - The easiest way to make and share a gif, right in the browser.
 * [jingfm-cli](https://github.com/fraserxu/jingfm-cli) - start playing music from your awesome command line with jingfm-cli
 * [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js
@@ -39,11 +43,7 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 * More on [github](https://github.com/fraserxu)
 
 #### - Client
-* Front-end architecture for the voter registration system for Myanmar(React.js, Electron, D3.js, Browserify, Immutable.js...)
-* [sweepboard](http://sweepboard.com/) - A Better GitHub Issue Queue. Transform your GitHub issue queue into a realtime kanban for your whole team
-* [Magic bus](https://www.magicbus.io/) An Ionic based hybrid application(*In Beta*)[Angular.js, ng-cordova...]
-* [csviz](http://csviz.github.io/csviz) Open data map with csv file[React.js, Flux, D3...]
+* [clentA](http://) - A Better xxxxxxxxxx
+* [clentB](https://) An Ionic based hybrid application(*In Beta*)[Angular.js, ng-cordova...]
 
 ---
-
-Check this file as [PDF](https://github.com/fraserxu/resume/raw/master/index.pdf), [docx](https://github.com/fraserxu/resume/raw/master/index.docx), [txt](https://github.com/fraserxu/resume/raw/master/index.txt)

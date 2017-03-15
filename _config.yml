@@ -6,18 +6,18 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Fraser Xu'
-tagline:          'Thoughts on life and code.'
+title:            'Leslie Peng'
+tagline:          'Thoughts on life and code by Leslie.'
 description:      'Thoughts on life and code.'
-url:              https://fraserxu.me
+url:              https://lesliepeng.github.io
 baseurl:          /
 gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "page:num"
 
 author:
-  name:           'Fraserxu'
-  url:            https://fraserxu.me
-  email:          xvfeng123@gmail.com
+  name:           'LesliePeng'
+  url:            https://lesliepeng.github.io
+  email:          xiaomeng1207@gmail.com
 
 version:          1.0.0
